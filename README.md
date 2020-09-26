@@ -9,3 +9,6 @@ Guide:
 3. Run "npm install" to install all package we need like webpack and babel
 4. Run "npm run start" to start your food search.
 
+demo:
+
+![image](https://github.com/DonoghLi/donoeats/blob/master/img/img.png)
